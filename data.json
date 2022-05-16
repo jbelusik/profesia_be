@@ -1,0 +1,48 @@
+{
+    "boards": [
+        {
+            "id": "698d5199-cda3-4438-ad5d-12eb19f47e56",
+            "name": "Prvý Board",
+            "lists": [
+                {
+                    "id": "03ceea12-ec86-4159-8010-a3199c2b6a32",
+                    "name": "TODO",
+                    "items": [
+                        {
+                            "id": "b513a748-499d-4751-87c6-b67825b1e1cd",
+                            "name": "Absolvovať pohovor"
+                        },
+                        {
+                            "id": "ffca0f14-b05d-49c2-81a2-ec1e6ee5dad9",
+                            "name": "Podpísať zmluvu"
+                        },
+                        {
+                            "id": "f82b26a2-110a-450f-8c96-a48d0163f0e6",
+                            "name": "Nastúpiť do práce"
+                        }
+                    ]
+                },
+                {
+                    "id": "ff2c7f71-a0a0-4e07-b9f9-b527786f21a2",
+                    "name": "In Progress",
+                    "items": [
+                        {
+                            "id": "d75e9e02-cb75-4879-930f-5adef0748ac0",
+                            "name": "Urobiť skúšobný príklad"
+                        }
+                    ]
+                },
+                {
+                    "id": "722fb2dc-612b-45d9-839b-3f2def44882e",
+                    "name": "Done",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "id": "fce76b89-daeb-41f5-838b-d427cf01c3f9",
+            "name": "Druhý board",
+			"lists": []
+        }
+    ]
+}
